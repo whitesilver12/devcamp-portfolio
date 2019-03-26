@@ -59,3 +59,4 @@ gem 'devise', '~> 4.6', '>= 4.6.1'
 
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
+gem 'my_view_tool', git: 'https://github.com/whitesilver12/my_view_tool.git'
